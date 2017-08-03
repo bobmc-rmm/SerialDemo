@@ -1,0 +1,5 @@
+C:\VE\SerialDemos\Demo2\bin\Debug\Demo2.exe.config
+C:\VE\SerialDemos\Demo2\bin\Debug\Demo2.exe
+C:\VE\SerialDemos\Demo2\bin\Debug\Demo2.pdb
+C:\VE\SerialDemos\Demo2\obj\Debug\Demo2.exe
+C:\VE\SerialDemos\Demo2\obj\Debug\Demo2.pdb

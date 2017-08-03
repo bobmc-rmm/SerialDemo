@@ -1,0 +1,5 @@
+C:\VE\SerialDemos\Demo2\bin\Release\Demo2.exe.config
+C:\VE\SerialDemos\Demo2\bin\Release\Demo2.exe
+C:\VE\SerialDemos\Demo2\bin\Release\Demo2.pdb
+C:\VE\SerialDemos\Demo2\obj\Release\Demo2.exe
+C:\VE\SerialDemos\Demo2\obj\Release\Demo2.pdb
